@@ -55,7 +55,7 @@ Use the template supplied by the application and keep its sheet names and column
 
 Use consistent item identifiers across all three sheets and express lead times in the same planning units as the demand columns.
 
-**Lead-time input:** The illustrated template provides lower and upper lead-time columns. Check the values displayed by **Preview** before running the model. Bounds alone cannot distinguish a set such as `{1, 3}` from `{1, 2, 3}`. If an intermediate value cannot occur, do not assume that leaving it unspecified excludes it; check that the application has parsed exactly the feasible values.
+**Lead-time input:** The illustrated template provides lower and upper lead-time columns. Check the values displayed by **Preview** before running the model.
 
 ## Manuscript Status
 
