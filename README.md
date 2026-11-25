@@ -1,8 +1,6 @@
 # Grey–MRP: Material Requirements Planning with Discrete Grey Lead Times
 
-This repository contains the Python implementations and Excel example workbooks accompanying the manuscript:
-
-> **Selecting Planned Lead Times in Material Requirements Planning: A Discrete Grey Number Approach**
+This repository contains the Python implementations and Excel example workbooks accompanying the manuscript about Grey-MRP
 
 ## Overview
 
@@ -57,6 +55,4 @@ Use consistent item identifiers across all three sheets and express lead times i
 
 **Lead-time input:** The illustrated template provides lower and upper lead-time columns. Check the values displayed by **Preview** before running the model.
 
-## Manuscript Status
 
-This repository provides supplementary code and example inputs for the manuscript *Selecting Planned Lead Times in Material Requirements Planning: A Discrete Grey Number Approach* by Tooraj Karimi.
